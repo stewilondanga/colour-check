@@ -1,4 +1,4 @@
-body {
+/*body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
@@ -19,6 +19,100 @@ body {
 
 .my_social a img {
   height: 1.5em;
+}
+
+input[type="checkbox"] {
+  opacity: 0;
+}
+
+#colour {
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+}
+
+body {
+  margin: 0;
+  height: 100vh;
+  place-items: center;
+  background-color: #FFF;
+  text-align: center;
+  font-family: 'Raleway';
+}
+
+.conatiner {
+  float: left;
+  position: relative;
+  left: 50%;
+  top: 25%;
+}
+
+.center {
+  float: left;
+  position: relative;
+  left: -50%;
+}
+
+.button {
+  margin: 4px;
+  background-color: #FFF;
+  overflow: auto;
+  float: left;
+  border-radius: 100%;
+  line-height: 3.5em;
+}
+.button label {
+  float: left;
+  width: 4.0em;
+}
+.button label span {
+  text-align: center;
+  padding: 3px 0;
+  display: block;
+}
+.button label input {
+  position: absolute;
+  top: -20px;
+}
+.button .red:hover {
+  background-color: #ffcdd2;
+  cursor: pointer;
+}
+.button .purple:hover {
+  background-color: #e1bee7;
+  cursor: pointer;
+}
+.button .indigo:hover {
+  background-color: #c5cae9;
+  cursor: pointer;
+}
+.button .blue:hover {
+  background-color: #bbdefb;
+  cursor: pointer;
+}
+.button .cyan:hover {
+  background-color: #b2ebf2;
+  cursor: pointer;
+}
+.button .teal:hover {
+  background-color: #b2dfdb;
+  cursor: pointer;
+}
+.button .green:hover {
+  background-color: #c8e6c9;
+  cursor: pointer;
+}
+.button .yellow:hover {
+  background-color: #fff9c4;
+  cursor: pointer;
+}
+.button .orange:hover {
+  background-color: #ffe0b2;
+  cursor: pointer;
+}
+.button .brown:hover {
+  background-color: #d7ccc8;
+  cursor: pointer;
 }
 
 .containers {
