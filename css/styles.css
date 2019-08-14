@@ -59,12 +59,13 @@ input[type="checkbox"] {
   width: 4.0em;
 }
 
-/*.button label span {
+.button label span {
   text-align: center;
   padding: 3px 0;
   display: block;
 }
-.button label input {
+
+/*.button label input {
   position: absolute;
   top: -20px;
 }
