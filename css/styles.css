@@ -65,11 +65,12 @@ input[type="checkbox"] {
   display: block;
 }
 
-/*.button label input {
+.button label input {
   position: absolute;
   top: -20px;
 }
-.button .red:hover {
+
+/*.button .red:hover {
   background-color: #ffcdd2;
   cursor: pointer;
 }
