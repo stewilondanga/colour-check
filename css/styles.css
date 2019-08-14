@@ -54,11 +54,12 @@ input[type="checkbox"] {
   line-height: 3.5em;
 }
 
-/*.button label {
+.button label {
   float: left;
   width: 4.0em;
 }
-.button label span {
+
+/*.button label span {
   text-align: center;
   padding: 3px 0;
   display: block;
