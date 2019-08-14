@@ -95,11 +95,12 @@ input[type="checkbox"] {
   cursor: pointer;
 }
 
-/*.button .teal:hover {
+.button .teal:hover {
   background-color: #b2dfdb;
   cursor: pointer;
 }
-.button .green:hover {
+
+/*.button .green:hover {
   background-color: #c8e6c9;
   cursor: pointer;
 }
