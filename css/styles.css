@@ -32,7 +32,6 @@ input[type="checkbox"] {
   position: relative;
 }
 
-/*
 .conatiner {
   float: left;
   position: relative;
@@ -40,7 +39,7 @@ input[type="checkbox"] {
   top: 25%;
 }
 
-.center {
+/*.center {
   float: left;
   position: relative;
   left: -50%;
