@@ -80,11 +80,12 @@ input[type="checkbox"] {
   cursor: pointer;
 }
 
-/*.button .indigo:hover {
+.button .indigo:hover {
   background-color: #c5cae9;
   cursor: pointer;
 }
-.button .blue:hover {
+
+/*.button .blue:hover {
   background-color: #bbdefb;
   cursor: pointer;
 }
