@@ -1,3 +1,12 @@
+body {
+  margin: 0;
+  height: 100vh;
+  place-items: center;
+  background-color: #FFF;
+  text-align: center;
+  font-family: 'Raleway';
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -31,14 +40,6 @@ input[type="checkbox"] {
   position: relative;
 }
 
-body {
-  margin: 0;
-  height: 100vh;
-  place-items: center;
-  background-color: #FFF;
-  text-align: center;
-  font-family: 'Raleway';
-}
 
 .conatiner {
   float: left;
